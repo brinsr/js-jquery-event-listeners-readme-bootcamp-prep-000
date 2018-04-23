@@ -10,8 +10,8 @@ function frameIt(){
   })
 }
 function pressIt(){
-  $('input').on('keydown',function(){
-    if
+  $('input').on('keydown',function(event){
+    if(event.which===)
   })
 }
 
